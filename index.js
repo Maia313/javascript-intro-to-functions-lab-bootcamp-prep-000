@@ -9,6 +9,6 @@ function whisper(string) {
 whisper("everything")
 
 function logShout(string) {
-  return string.() 
+  console.log(string) 
 }
-whisper("everything")
+logShout("ALL")
