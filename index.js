@@ -8,10 +8,10 @@ function whisper(string) {
 }
 whisper("everything")
 
-function logShout(STRING) {
-  console.log(STRING) 
+function logShout(string) {
+  console.log(string) 
 }
-logShout("NO")
+logShout("HELLO")
 
 function logWhisper(string) {
   console.log(string) 
