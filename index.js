@@ -17,3 +17,5 @@ function logWhisper(string) {
   console.log(string) 
 }
 logWhisper("all")
+
+sayHiToGrandma(string)
