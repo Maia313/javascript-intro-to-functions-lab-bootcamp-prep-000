@@ -6,4 +6,4 @@ shout("something")
 function whisper(string) {
   return string.toLowerCase() 
 }
-whisper("something")
+whisper("everything")
