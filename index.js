@@ -8,7 +8,7 @@ function whisper(string) {
 }
 whisper("everything")
 
-function logShout(string) {
+function logShout(STRING) {
   console.log(string) 
 }
 logShout("ALL")
